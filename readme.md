@@ -12,3 +12,4 @@ Projects completed so far include:
 - [x] FormValidation
 - [x] SeatBooking
 - [X] CustomVideoPlayer
+- [X] CurrencyExchange
